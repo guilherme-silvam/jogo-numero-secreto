@@ -21,7 +21,8 @@ Neste jogo, o objetivo é adivinhar um número secreto dentro de um intervalo es
 
 ## Como Jogar
 
-1. Acesse o site do jogo: [Jogo do Numero Secreto](http://www.exemplo.com)
+1. Acesse o site do jogo: [Jogo do Numero Secreto](https://guilherme-silvam.github.io/jogo-numero-secreto/
+)
 2. Digite um número no campo.
 3. Clique no botão "Chute" para submeter sua tentativa.
 4. Receba o feedback se o número é maior ou menor que o número secreto.
